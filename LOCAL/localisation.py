@@ -29,9 +29,9 @@ help_text = """**v3.7**
 
 source_text = "**Deploy your own bot**"
 
-DEV = "https://t.me/MaheshChauhan"
+DEV = "https://t.me/Snowball_Official"
 
-spam_notice = "This bot is hosted on heroku, and hence can just run one process at a time.Spamming the bot or encoding adult videos will lead you to a ban."
+spam_notice = "This bot is hosted on heroku, and hence can just run one process at a time."
 
 JPG = "LOCAL/video_convertor.jpg"
 
