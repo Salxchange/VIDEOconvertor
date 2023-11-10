@@ -120,8 +120,7 @@ async def back(event):
 process1 = []
 timer = []
 
-#Set timer to avoid spam
-async def set_timer(event, list1, list2):
+    (event, list1, list2):
     now = time.time()
     list2.append(f'{now}')
     list1.append(f'{event.sender_id}')
@@ -130,8 +129,7 @@ async def set_timer(event, list1, list2):
     list2.pop(int(timer.index(f'{now}')))
     list1.pop(int(process1.index(f'{event.sender_id}')))
     
-#check time left in timer
-async def check_timer(event, list1, list2):
+    (event, list1, list2):
     if f'{event.sender_id}' in list1:
         index = list1.index(f'{event.sender_id}')
         last = list2[int(index)]
