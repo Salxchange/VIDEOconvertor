@@ -1,7 +1,7 @@
 #Don't be a thief by stealing other's Hardwork, it took time and effort to make this repo.
 #Respect my work by not making any changes here.
 
-START_TEXT = ".Hi [username] 👋 I Aᴍ sᴛᴀʙʟᴇ ᴀɴᴅ Fᴀsᴛ ᴛᴇʟᴇɢʀᴀᴍ ᴠɪᴅᴇᴏ ᴄᴏɴᴠᴇʀᴛᴏʀ ʙᴏᴛ ᴡʜɪᴄʜ ᴄᴀɴ ᴇɴᴄᴏᴅᴇ ɪɴᴛᴏ ᴅɪғғᴇʀᴇɴᴛ ʟɪʙs ᴀɴᴅ ʀᴇsᴏʟᴜᴛɪᴏɴ, ᴄᴏᴍᴘʀᴇss ᴠɪᴅᴇᴏs, ᴄᴏɴᴠᴇʀᴛ ᴠɪᴅᴇᴏ ɪɴᴛᴏ ᴀᴜᴅɪᴏ ᴀɴᴅ ᴏᴛʜᴇʀ ᴠɪᴅᴇᴏ ғᴏʀᴍᴀᴛs, ʀᴇɴᴀᴍᴇ ᴡɪᴛʜ ᴛʜᴜᴍʙɴᴀɪʟ sᴜᴘᴘᴏʀᴛ, ɢᴇɴᴇʀᴀᴛᴇ sᴄʀᴇᴇɴsʜᴏᴛ ᴀɴᴅ ᴛʀɪᴍ ᴠɪᴅᴇᴏs."
+START_TEXT = "Hi 👋 I Aᴍ sᴛᴀʙʟᴇ ᴀɴᴅ Fᴀsᴛ ᴛᴇʟᴇɢʀᴀᴍ ᴠɪᴅᴇᴏ ᴄᴏɴᴠᴇʀᴛᴏʀ ʙᴏᴛ ᴡʜɪᴄʜ ᴄᴀɴ ᴇɴᴄᴏᴅᴇ ɪɴᴛᴏ ᴅɪғғᴇʀᴇɴᴛ ʟɪʙs ᴀɴᴅ ʀᴇsᴏʟᴜᴛɪᴏɴ, ᴄᴏᴍᴘʀᴇss ᴠɪᴅᴇᴏs, ᴄᴏɴᴠᴇʀᴛ ᴠɪᴅᴇᴏ ɪɴᴛᴏ ᴀᴜᴅɪᴏ ᴀɴᴅ ᴏᴛʜᴇʀ ᴠɪᴅᴇᴏ ғᴏʀᴍᴀᴛs, ʀᴇɴᴀᴍᴇ ᴡɪᴛʜ ᴛʜᴜᴍʙɴᴀɪʟ sᴜᴘᴘᴏʀᴛ, ɢᴇɴᴇʀᴀᴛᴇ sᴄʀᴇᴇɴsʜᴏᴛ ᴀɴᴅ ᴛʀɪᴍ ᴠɪᴅᴇᴏs."
 
 FORCE_SUB_TEXT = "In order to use this bot, you've to join my parent channel."
 
