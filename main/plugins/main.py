@@ -120,23 +120,7 @@ async def back(event):
 process1 = []
 timer = []
 
-    (event, list1, list2):
-    now = time.time()
-    list2.append(f'{now}')
-    list1.append(f'{event.sender_id}')
-    await event.client.send_message(event.chat_id, 'You can start a new process again after 5 minutes.')
-    await asyncio.sleep
-    list2.pop(int(timer.index(f'{now}')))
-    list1.pop(int(process1.index(f'{event.sender_id}')))
-    
-    (event, list1, list2):
-    if f'{event.sender_id}' in list1:
-        index = list1.index(f'{event.sender_id}')
-        last = list2[int(index)]
-        present = time.time()
-        return False, f"You have to wait (present-float(last))} seconds more to start a new process!"
-    else:
-        return True, None
+
     
 @Drone.on(events.callbackquery.CallbackQuery(data="mp3"))
 async def vtmp3(event):
@@ -149,10 +133,7 @@ async def vtmp3(event):
         await event.delete()
         os.mkdir("audioconvert")
         await mp3(event, msg)
-        os.rmdir("audioconvert")
-    else:
-        await event.edit("Another process in progress!")
-        
+        os.rmdir("audioconvert")     
 @Drone.on(events.callbackquery.CallbackQuery(data="flac"))
 async def vtflac(event):
     yy = await force_sub(event.sender_id)
