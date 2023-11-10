@@ -1,17 +1,17 @@
 #Don't be a thief by stealing other's Hardwork, it took time and effort to make this repo.
 #Respect my work by not making any changes here.
 
-START_TEXT = "Send me any file to begin."
+START_TEXT = ".Hi 👋 I Aᴍ sᴛᴀʙʟᴇ ᴀɴᴅ Fᴀsᴛ ᴛᴇʟᴇɢʀᴀᴍ ᴠɪᴅᴇᴏ ᴄᴏɴᴠᴇʀᴛᴏʀ ʙᴏᴛ ᴡʜɪᴄʜ ᴄᴀɴ ᴇɴᴄᴏᴅᴇ ɪɴᴛᴏ ᴅɪғғᴇʀᴇɴᴛ ʟɪʙs ᴀɴᴅ ʀᴇsᴏʟᴜᴛɪᴏɴ, ᴄᴏᴍᴘʀᴇss ᴠɪᴅᴇᴏs, ᴄᴏɴᴠᴇʀᴛ ᴠɪᴅᴇᴏ ɪɴᴛᴏ ᴀᴜᴅɪᴏ ᴀɴᴅ ᴏᴛʜᴇʀ ᴠɪᴅᴇᴏ ғᴏʀᴍᴀᴛs, ʀᴇɴᴀᴍᴇ ᴡɪᴛʜ ᴛʜᴜᴍʙɴᴀɪʟ sᴜᴘᴘᴏʀᴛ, ɢᴇɴᴇʀᴀᴛᴇ sᴄʀᴇᴇɴsʜᴏᴛ ᴀɴᴅ ᴛʀɪᴍ ᴠɪᴅᴇᴏs            Send Me Any File to begin."
 
 FORCE_SUB_TEXT = "In order to use this bot, you've to join my parent channel."
 
-CHANNEL_LINK = "https://t.me/DroneBots"
+CHANNEL_LINK = "https://t.me/Rokubotz"
 
-SUPPORT_LINK = "https://t.me/TeamDrone"
+SUPPORT_LINK = "https://t.me/Rokubotz"
 
-info_text = "This bot is developed by @MaheshChauhan\n\nWritten in python library TELETHON.\n\nBot by : @DroneBots\nSupport : @TeamDrone\n\nV1.4"   
+info_text = "This bot is developed by @Snowball_Official\n\nWritten in python library TELETHON.\n\nBot by : @Rokubotz\nSupport : @Rokubotz\n\nV3.7"   
 
-help_text = """**v1.4**
+help_text = """**v3.7**
 
 •`Encode` - encode your video into different lib format or resolution
 
